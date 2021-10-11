@@ -1,0 +1,29 @@
+Roadmap Task List & Priority
+
+TiDev Organizational Goals:
+1.) That Titanium continues to work for every iOS/Android update.
+2.) That it is as easy as possible for new developers to get into the ecosystem.
+3.) That it’s EASY to find support for the platform (TiSlack, Paid enterprise support from TiDev.)
+4.) That we certify which modules WORK, are SUPPORTED, and can be TRUSTED for development. (TiDev stamp of approval for things like Hans’ Firebase modules.)
+5.) That we improve the reputation of the Titanium ecosystem with both developers and corporations that this platform is currently maintained, and trusted for future development projects. NO END OF LIFE.
+
+——————————
+
+Website Changes:
+1.) Developer directory
+2.) Corporate sponsor directory
+3.) Add list of BLESSED and SUPPORTED modules for Titanium.
+4.) Work on a really solid GETTING STARTED manual for making it as easy as possible to get new developers into the platform. React Native does this really well using playgrounds, etc, online.
+
+Titanium Core Changes:
+1.) Priority #1 — Always staying on top of iOS and Android SDK updates.
+2.) Work on how new SDK releases will be distributed in a post-Axway managed world.
+3.) Interoperability with npm modules is crticial
+4.) Improved documentation around the Javascript core for Titanium.
+- Someone from Appcelerator perhaps could chime in on this to assist in authoring this documentation.
+5.) Add a “Titanium Doctor” module for resolving problems with why building, etc, isn’t working.
+
+Modules:
+1.) Identify modules that are crticial to the platform.
+- Pay folks like Hans and Michael to keep those crtitical modules current on the platform.
+2.) Add a bounty system for modernizing modules that TiDev isn’t directly supporting.

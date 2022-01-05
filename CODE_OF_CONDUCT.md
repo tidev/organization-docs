@@ -1,4 +1,4 @@
-# Titanium Community Discord Code of Conduct
+# Titanium Community Code of Conduct
 
 The Titanium community, lead by the board of directors at TiDev, Inc, is dedicated to providing a safe, inclusive, welcoming and harassment-free space and experience for all community participants to learn and grow together.
 
@@ -45,7 +45,7 @@ Some Titanium Community spaces may have additional rules in place, which are pos
 
 ## Code of Conduct feedback
 
-Feedback is always appreciated! If you have any feedback or suggestions on how to improve the MariaDB Community Code of Conduct, please file an issue on the TiDev Organizational Docs repository here: https://github.com/tidev/organization-docs/issues
+Feedback is always appreciated! If you have any feedback or suggestions on how to improve the Titanium Community Code of Conduct, please file an issue on the TiDev Organizational Docs repository here: https://github.com/tidev/organization-docs/issues
 
 This official TiDev sponsored Titanium Community Code of Conduct is a living document. It will grow with the Titanium Community to ensure we are providing a safe, inclusive, welcoming and harassment-free space and experience for all community participants.
 

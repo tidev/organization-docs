@@ -10,7 +10,7 @@ A committer is someone who has a proven record of significant contributions to T
 
 ## Committer Approval Process
 
-Once you have been nominated, a vote will be held. After the voting window has closed, the majority vote determines if you are granted committer access and to which projects.
+Once you have been nominated, a vote will be held by the TiDev board and current committers. After the voting window has closed, the majority vote determines if you are granted committer access and to which projects.
 
 There are several levels of committer access based on your contributions:
 
@@ -23,7 +23,7 @@ You may be granted committer access to only a single project or in the rare circ
 
 ## Keeping your Commit Access
 
-For security reasons, TiDev may choose to suspend your commit privileges if you have been inactive for longer than 1 year.
+For security reasons, the TiDev board members may choose to suspend your commit privileges if you have been inactive for longer than 1 year.
 
 Violating the [code of conduct](https://github.com/tidev/organization-docs/blob/main/CODE_OF_CONDUCT.md) may also result in commit access being revoked.
 

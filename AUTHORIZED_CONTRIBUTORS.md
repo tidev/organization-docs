@@ -17,7 +17,7 @@ Below is the list of users that have successfully completed the CLA document for
 
 |Signer|Github Username|CLA Version|Date Signed|
 |--|--|--|--|
-|Marc Bender|m1ga|1.1|March 17th, 2022|
+|Marc Bender|mbender74|1.1|March 17th, 2022|
 |Michael Gangolf|m1ga|1.1|March 4th, 2022|
 |Ewan Harris|ewanharris|1.1|March 3rd, 2022|
 |Mike Hobson|N/A|1.0|March 3rd, 2022|

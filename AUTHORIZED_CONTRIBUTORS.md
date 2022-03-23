@@ -17,6 +17,7 @@ Below is the list of users that have successfully completed the CLA document for
 
 |Signer|Github Username|CLA Version|Date Signed|
 |--|--|--|--|
+|Rene Pot|topener|1.1|March 23rd, 2022|
 |Sergey Volkov|drauggres|1.1|March 22nd, 2022|
 |Marc Bender|mbender74|1.1|March 17th, 2022|
 |Michael Gangolf|m1ga|1.1|March 4th, 2022|

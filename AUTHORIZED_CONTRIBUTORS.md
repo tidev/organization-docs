@@ -17,6 +17,7 @@ Below is the list of users that have successfully completed the CLA document for
 
 |Signer|Github Username|CLA Version|Date Signed|
 |--|--|--|--|
+|Bruno Augier|dzzd|1.1|May 12th, 2022|
 |Manuel Conde|mcvendrell|1.1|April 8th, 2022|
 |Christian Hauf|chauf|1.1|April 3rd, 2022|
 |César Estrada|macCesar|1.1|March 31th, 2022|

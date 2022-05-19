@@ -22,4 +22,4 @@ If you find a security related issue, please send an email to [security@tidev.io
 
 For the latest information, please find us on Twitter: [Titanium SDK](https://twitter.com/titaniumsdk) and [TiDev](https://twitter.com/tidevio).
 
-Join our growing Slack community by visiting https://tislack.org
+Join our growing Slack community by visiting https://slack.tidev.io

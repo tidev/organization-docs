@@ -6,6 +6,6 @@ The TiDev, Inc public governance documents are maintained by Josh Lambert, under
 
 **Name:** Josh Lambert
 
-**Email:** `josh.lambert@centrevilletech.com`
+**Email:** `josh@lambertmail.xyz`
 
 **Twitter:** `@zettageek`

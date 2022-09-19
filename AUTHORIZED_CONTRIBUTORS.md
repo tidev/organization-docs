@@ -17,6 +17,7 @@ Below is the list of users that have successfully completed the CLA document for
 
 |Signer|Github Username|CLA Version|Date Signed|
 |--|--|--|--|
+|Mark Henderson|markive|1.1|September 8th, 2022|
 |Jan Vennemann|janvennemann|1.1|July 20th, 2022|
 |Bruno Augier|dzzd|1.1|May 12th, 2022|
 |Manuel Conde|mcvendrell|1.1|April 8th, 2022|

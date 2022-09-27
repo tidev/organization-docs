@@ -17,7 +17,7 @@ Infos and checklists for SDK or CLI releases. Go through the list for each RC or
 * blog post on tidev.io ([repo](https://github.com/tidev/tidev-www/tree/main/posts/2022))
 * check [downloads.titaniumsdk](https://downloads.titaniumsdk.com/releases) for the correct version ([repo](https://github.com/tidev/downloads-www))
 * test `ti sdk install latest` and `ti sdk install [version number]`
-* tweet the blog post
+* tweet the blog post (use hashtags like #tidev #mobiledev #javascript to get in the timeline of other people)
 * post it on slack in `#announcements`
 
 

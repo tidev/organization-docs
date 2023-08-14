@@ -17,6 +17,7 @@ Below is the list of users that have successfully completed the CLA document for
 
 |Signer|Github Username|CLA Version|Date Signed|
 |--|--|--|--|
+|Christian Clare|narbs|1.1|August 4th, 2023|
 |Jordan Luiz Bisato|jordanbisato|1.1|April 14th, 2023|
 |Marian Kucharcik|Max87ZA|1.1|February 18th, 2023|
 |Vittorio Sorbera|Astrovic|1.1|February 8th, 2023|

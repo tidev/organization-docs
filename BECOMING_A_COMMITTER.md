@@ -4,7 +4,7 @@ A committer is someone who has a proven record of significant contributions to T
 
 ## Steps to Become a Committer
 
-1. Submit a [Contributor License Agreement (CLA)](https://github.com/tidev/organization-docs/blob/main/AUTHORIZED_CONTRIBUTORS.md)
+1. Sign the [Contributor License Agreement (CLA)](https://tidev.io/contribute)
 2. Get involved with one or more TiDev projects
 3. Get nominated by a current committer
 
@@ -25,6 +25,6 @@ You may be granted committer access to only a single project or in the rare circ
 
 For security reasons, the TiDev board members may choose to suspend your commit privileges if you have been inactive for longer than 1 year.
 
-Violating the [code of conduct](https://github.com/tidev/organization-docs/blob/main/CODE_OF_CONDUCT.md) may also result in commit access being revoked.
+Violating the [code of conduct](https://tidev.io/code-of-conduct) may also result in commit access being revoked.
 
 You may voluntarily suspend your commit privileges should you choose.

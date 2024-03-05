@@ -4,7 +4,7 @@ Below are the specific goals TiDev, Inc is working towards in accordance with ou
 
 For the TiDev Website:
 
- 1.  **Developer directory.** This means a place where developers that actively contribute to the TiDev project can list themselves as "for hire" by businesses looking for mobile developer talent. Should include an ability to link to their social media profiles, business website, and previous Titanium projects they've built. 
+ 1.  **Developer directory.** This means a place where developers that actively contribute to the TiDev project can list themselves as "for hire" by businesses looking for mobile developer talent. Should include an ability to link to their social media profiles, business website, and previous Titanium projects they've built.
  2.  **Corporate sponsor promotion.** This means prominent placement of corporation logos and websites that actively fund the TiDev project on the TiDev website as a way for them to build community good will and market themselves to our developer community.
  3.  **Actively Supported Titanium Modules.** This means a searchable directory on our website where we keep a published list of ACTIVELY SUPPORTED modules for Titanium. One place to look that doesn't involve lots of Googling for our developer community.
  4. **Solid Getting Started / On-Boarding Manual.** This means articles, videos, and walk-throughs that make it as easy as possible to get new developers into the platform. React Native does this really well using playgrounds, etc, online. We're aiming for, at minimum, parity with that while also making the experience even better if possible.
